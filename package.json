@@ -1,0 +1,22 @@
+{
+  "name": "project_w02",
+  "version": "1.0.0",
+  "description": "sit 725 T2 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishadiIDH/Project_W02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishadiIDH/Project_W02/issues"
+  },
+  "homepage": "https://github.com/NishadiIDH/Project_W02#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
